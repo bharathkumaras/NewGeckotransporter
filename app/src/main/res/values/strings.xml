@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewGeckotransporter</string>
+    <string name="username">bharath</string>
+    <string name="password">bharath</string>
+    <string name="login_preference">com.example.sandy.newgeckotransporter</string>
+    <string name="login_status_preferences">login status preferences</string>
+</resources>
