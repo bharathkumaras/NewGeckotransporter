@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     Button sendrequest,camera,gallery,retofit,sqlite;
     private int camerapermission = 200;
     private int External = 201;
+    //This is test code
 
 
 
